@@ -1,0 +1,13 @@
+{
+  "username": "nela.z@interia.pl",
+  "password": "Franekilila2!",
+  "city": "Warszawa",
+  "service": "Konsultacja okulistyczna z badaniem dna oka",
+  "earliest_date": "2025-08-07",
+  "earliest_time": "11:00",
+  "allowed_weekdays": [4, 5],
+  "free_in_package": true,
+  "auto_book": true,
+  "telegram_token": "8295804346:AAF-CG_AfafVsj1VMy1vPcuP2BbpGSZmAbg",
+  "telegram_chat_id": "7616907808"
+}
